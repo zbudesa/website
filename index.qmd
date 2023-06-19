@@ -1,5 +1,6 @@
 ---
 title: "Zach Budesa, PhD"
+image: static/Budesa_headshot.jpg
 about:
     template: trestles
     links:
@@ -8,13 +9,15 @@ about:
           href: mailto:zach.budesa@mimh.edu
         - icon: mortarboard-fill
           text: CV
-          href: ~static/cv.pdf
+          href: static/cv.pdf
         - icon: google
           href: https://scholar.google.com/citations?user=d0xBoJgAAAAJ&hl=en
         - icon: twitter
           href: https://twitter.com/zachbudesa
         - icon: github
           href: https://github.com/zbudesa
+        - icon: linkedin
+          href: https://www.linkedin.com/in/zach-budesa-a2856489/
 ---
-
+# Caution
 This website is currently under construction. Please feel free to contact me at [zach.budesa@mimh.edu](mailto:zach.budesa@mimh.edu).
