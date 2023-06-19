@@ -1,6 +1,6 @@
 ---
-title: "Zach Budesa, PhD"
-image: static/Budesa_headshot.jpg
+title: "Zach Budesa"
+image: static/Budesa_Headshot.jpg
 about:
     template: trestles
     links:
@@ -18,6 +18,12 @@ about:
           href: https://github.com/zbudesa
         - icon: linkedin
           href: https://www.linkedin.com/in/zach-budesa-a2856489/
+        - icon: info-square
+          text: Addiction Science Team
+          href: https://www.mimhaddisci.org/
+        - icon: bank
+          text: Missouri Institute of Mental Health
+          href: https://www.mimh.edu/
 ---
-# Caution
-This website is currently under construction. Please feel free to contact me at [zach.budesa@mimh.edu](mailto:zach.budesa@mimh.edu).
+
+I am an Assistant Research Professor with the [Addiction Science Team](https://www.mimhaddisci.org/) in the [Missouri Institute of Mental Health](https://mimh.edu) at the [University of Missouri--St. Louis](https://www.umsl.edu/). 

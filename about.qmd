@@ -2,4 +2,57 @@
 title: "About"
 ---
 
-This is my website.
+### Research Interests
+
+- Measurement & Measurement Error
+- Scale Development
+- Quantitative Methods
+- Treatment Outcomes
+- Leveraging Administrative Data
+
+### Education
+::: {.d-flex .justify-content-between}
+::: {}
+**University of Tennessee Health Science Center**  
+Postdoctoral Scholar in Medical Education Curriculum and Assessment   
+PI: Leo Lamsen
+:::
+::: {.text-end}
+Knoxville, TN
+:::
+:::
+::: {.d-flex .justify-content-between}
+::: {}
+**University of Tennessee, Knoxville**  
+PhD in Counselor Education    
+Additional Focus: Evaluation, Statistics, and Measurement   
+Advisor: Casey Barrio-Minton  
+:::
+::: {.text-end}
+Knoxville, TN   
+Aug 2021
+:::
+:::
+Dissertation:     
+[*Addressing the inconsistencies in counselor skill development and measurement through deliberate practice and assessment tools*](https://trace.tennessee.edu/cgi/viewcontent.cgi?article=8006&context=utk_graddiss)
+
+::: {.d-flex .justify-content-between}
+::: {}
+**Tennessee Tech University**  
+MA in Counseling
+:::
+::: {.text-end}
+Cookeville, TN    
+Aug 2016
+:::
+:::
+::: {.d-flex .justify-content-between}
+::: {}
+**Tennessee Tech University**  
+BS in Psychology
+:::
+::: {.text-end}
+Cookeville, TN    
+Aug 2014
+:::
+:::

@@ -4,7 +4,8 @@ project:
   output-dir: docs
 
 website:
-  title: "Zach Budesa, PhD"
+  title: "Zach Budesa, The Website"
+  site-url: "zbudesa.com"
   twitter-card: true
   navbar:
     left:
