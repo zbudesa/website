@@ -1,5 +1,5 @@
 ---
-title: "cv"
+title: "CV"
 ---
 
 CV goes here.
