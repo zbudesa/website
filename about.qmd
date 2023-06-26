@@ -6,9 +6,8 @@ title: "About"
 
 - Measurement & Measurement Error
 - Scale Development
-- Quantitative Methods
 - Treatment Outcomes
-- Leveraging Administrative Data
+- Leveraging Administrative Data for Clinical Outcomes
 
 ### Education
 ::: {.d-flex .justify-content-between}

@@ -18,6 +18,8 @@ about:
           href: https://github.com/zbudesa
         - icon: linkedin
           href: https://www.linkedin.com/in/zach-budesa-a2856489/
+        - text: OSF
+          href: https://osf.io/532qy/ 
         - icon: info-square
           text: Addiction Science Team
           href: https://www.mimhaddisci.org/
@@ -26,4 +28,4 @@ about:
           href: https://www.mimh.edu/
 ---
 
-I am an Assistant Research Professor with the [Addiction Science Team](https://www.mimhaddisci.org/) in the [Missouri Institute of Mental Health](https://mimh.edu) at the [University of Missouri--St. Louis](https://www.umsl.edu/). 
+I am quantitative research faculty with the [Addiction Science Team](https://www.mimhaddisci.org/) at the [Missouri Institute of Mental Health](https://mimh.edu) at [University of Missouri--St. Louis](https://www.umsl.edu/). My work focuses on scale development, measurement and the measurement error of administrative data, and treatment outcomes.
